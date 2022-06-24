@@ -8914,7 +8914,6 @@ $discard,site=careerengine.us
 $discard,site=manfen5.com
 $discard,site=xiaohongshu.com
 $discard,site=book.jd.com
-
 $discard,site=stayokey.com
 $discard,site=zditect.com
 $discard,site=icode.best
@@ -8926,6 +8925,8 @@ $discard,site=eliveint.com
 $site=wikipedia.org,boost=1
 $site=github.com,boost=2
 $site=v2ex.com,boost=3
+$site=stackoverflow.com,boost=2
+$site=w3schools.com,boost=2
 
 $boost=4,site=blog.samaltman.com
 $boost=4,site=paulgraham.com
