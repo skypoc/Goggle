@@ -15165,12 +15165,6 @@ $boost=2,site=sigusr2.net
 
 
 
-$boost=1,site=github.io
-$boost=1,site=micro.blog
-/blog.$boost=1
-/blog/$boost=1
-/engineering.$boost=2
-
 $boost=3,site=0x65.dev
 $boost=3,site=0xadada.pub
 $boost=3,site=2ality.com
