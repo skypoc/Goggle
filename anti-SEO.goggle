@@ -1,6 +1,6 @@
 ! name: anti-SEO
 ! description: blocking spam SEO
-! public: false
+! public: true
 ! author: skypoc
 
 $discard,site=005i.com
@@ -758,7 +758,7 @@ $discard,site=huangjinqihuo.com
 $discard,site=huankangfc.com
 $discard,site=huanqiao406.com
 $discard,site=huanyuxumu.com
-$discard,site=huaweicloud.com/s
+$discard,site=huaweicloud.com
 $discard,site=huayeshuzi.com
 $discard,site=hubin148.com
 $discard,site=huo123.cc
@@ -1796,11 +1796,8 @@ $discard,site=159.138.37.243
 $discard,site=23.95.222.127
 $discard,site=39.108.60.68
 $discard,site=47.241.89.120
-$discard,site=cloud.tencent.com/developer/ask
-$discard,site=cloud.tencent.com/developer/information
-$discard,site=support.huaweicloud.com/topic
-$discard,site=cnpython.com/qa
-$discard,site=huaweicloud.com/theme
+$discard,site=cloud.tencent.com
+$discard,site=cnpython.com
 $discard,site=001553.cn
 $discard,site=003zuqiu.com
 $discard,site=006xb.cn
