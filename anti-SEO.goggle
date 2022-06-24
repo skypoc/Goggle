@@ -8922,7 +8922,7 @@ $discard,site=nongzhibaike.com
 $discard,site=imangodoc.com
 $discard,site=eliveint.com
 
-$site=wikipedia.org,boost=1
+$site=wikipedia.org,boost=2
 $site=github.com,boost=2
 $site=v2ex.com,boost=3
 $site=stackoverflow.com,boost=2
@@ -9222,7 +9222,6 @@ $boost=4,site=acko.net
 $boost=4,site=misc-stuff.terraaeon.com
 $boost=4,site=blog.robertelder.org
 $boost=4,site=patrick-breyer.de
-$boost=4,site=mainichi.jp
 $boost=4,site=notepad-plus-plus.org
 $boost=4,site=dolphin-emu.org
 $boost=4,site=adriancourreges.com
@@ -9872,7 +9871,6 @@ $boost=4,site=melmagazine.com
 $boost=4,site=sambleckley.com
 $boost=4,site=david.heinemeierhansson.com
 $boost=4,site=secondbreakfast.co
-$boost=4,site=asahi.com
 $boost=4,site=nintendo.co.jp
 $boost=4,site=annoying.technology
 $boost=4,site=kiro7.com
@@ -10557,7 +10555,6 @@ $boost=4,site=thepointsguy.com
 $boost=4,site=dinosaurpictures.org
 $boost=4,site=quillette.com
 $boost=4,site=neil.fraser.name
-$boost=4,site=www3.nhk.or.jp
 $boost=4,site=muppetlabs.com
 $boost=4,site=blogs.gnome.org
 $boost=4,site=readonlymemory.vg
@@ -15126,7 +15123,6 @@ $boost=2,site=blog.mrmeyer.com
 $boost=2,site=dailycal.org
 $boost=2,site=nbcphiladelphia.com
 $boost=2,site=ww2.kqed.org
-$boost=2,site=nitter.net
 $boost=2,site=mathieupassenaud.fr
 $boost=2,site=uploadvr.com
 $boost=2,site=lincolnloop.com
