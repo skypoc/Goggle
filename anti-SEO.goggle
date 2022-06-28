@@ -8922,13 +8922,6 @@ $discard,site=nongzhibaike.com
 $discard,site=imangodoc.com
 $discard,site=eliveint.com
 
-$site=wikipedia.org,boost=3
-$site=github.com,boost=3
-$site=v2ex.com,boost=3
-$site=stackoverflow.com,boost=4
-$site=w3schools.com,boost=4
-
-
 /?category=Engineering^$boost=3,site=blog.siftscience.com
 /?category=Engineering^$boost=3,site=blog.venmo.com
 /@InstagramEng^$boost=3,site=engineering.instagram.com
@@ -8970,3 +8963,10 @@ $site=w3schools.com,boost=4
 /blog^$boost=3,site=collectiveidea.com
 /blog^$boost=3,site=confluent.io
 /blog^$boost=3,site=convox.com
+
+
+
+$site=wikipedia.org,boost=4
+$site=github.com,boost=4
+$site=stackoverflow.com,boost=4
+$site=w3schools.com,boost=4
